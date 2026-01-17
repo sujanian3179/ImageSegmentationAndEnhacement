@@ -1,0 +1,42 @@
+[
+  {
+    "crop_file": "person_01_crop.jpg",
+    "enhanced_file": "person_01_enhanced.jpg",
+    "crop_path": "crops/person_01_crop.jpg",
+    "enhanced_path": "enhanced/person_01_enhanced.jpg",
+    "blur_before": 12.279193352708333,
+    "blur_after": 7.92789218733046,
+    "sharpen_level": "high",
+    "upscale_2x": true
+  },
+  {
+    "crop_file": "person_02_crop.jpg",
+    "enhanced_file": "person_02_enhanced.jpg",
+    "crop_path": "crops/person_02_crop.jpg",
+    "enhanced_path": "enhanced/person_02_enhanced.jpg",
+    "blur_before": 4.838089581766492,
+    "blur_after": 4.371438541662326,
+    "sharpen_level": "high",
+    "upscale_2x": true
+  },
+  {
+    "crop_file": "person_03_crop.jpg",
+    "enhanced_file": "person_03_enhanced.jpg",
+    "crop_path": "crops/person_03_crop.jpg",
+    "enhanced_path": "enhanced/person_03_enhanced.jpg",
+    "blur_before": 10.39843749826389,
+    "blur_after": 10.650854166558167,
+    "sharpen_level": "high",
+    "upscale_2x": true
+  },
+  {
+    "crop_file": "person_04_crop.jpg",
+    "enhanced_file": "person_04_enhanced.jpg",
+    "crop_path": "crops/person_04_crop.jpg",
+    "enhanced_path": "enhanced/person_04_enhanced.jpg",
+    "blur_before": 4.391131244058158,
+    "blur_after": 3.668147395735405,
+    "sharpen_level": "high",
+    "upscale_2x": true
+  }
+]

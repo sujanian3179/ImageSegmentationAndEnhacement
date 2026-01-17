@@ -1,0 +1,24 @@
+# 1) Crop (Approach 1)
+curl -X POST "http://127.0.0.1:8000/crop" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "image_path": "/Users/ayushranjanjha/code_repo/ImageSegementation_Enhancement/photo.jpg",
+    "output_dir": "/Users/ayushranjanjha/code_repo/ImageSegementation_Enhancement/output",
+    "approach": "a1"
+  }'
+
+# 2) Crop (Approach 2)
+curl -X POST "http://127.0.0.1:8000/crop" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "image_path": "/Users/ayushranjanjha/code_repo/ImageSegementation_Enhancement/photo.jpg",
+    "output_dir": "/Users/ayushranjanjha/code_repo/ImageSegementation_Enhancement/output",
+    "approach": "a2"
+  }'
+
+# 3) Enhance
+curl -X POST "http://127.0.0.1:8000/enhance" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "output_dir": "/Users/ayushranjanjha/code_repo/ImageSegementation_Enhancement/output"
+  }'

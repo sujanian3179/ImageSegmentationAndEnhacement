@@ -1,0 +1,5 @@
+crop_path,face_bbox_h,face_bbox_w,face_bbox_x,face_bbox_y,person_id,upper_bbox_h,upper_bbox_w,upper_bbox_x,upper_bbox_y,upperbody_found
+crops/person_01_crop.jpg,103,103,23,252,person_01,,,,,False
+crops/person_02_crop.jpg,49,49,125,201,person_02,,,,,False
+crops/person_03_crop.jpg,48,48,244,177,person_03,,,,,False
+crops/person_04_crop.jpg,47,47,369,195,person_04,,,,,False

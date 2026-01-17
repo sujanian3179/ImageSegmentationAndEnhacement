@@ -1,0 +1,54 @@
+[
+  {
+    "person_id": "person_01",
+    "face_bbox_x": 23,
+    "face_bbox_y": 252,
+    "face_bbox_w": 103,
+    "face_bbox_h": 103,
+    "upperbody_found": false,
+    "upper_bbox_x": null,
+    "upper_bbox_y": null,
+    "upper_bbox_w": null,
+    "upper_bbox_h": null,
+    "crop_path": "crops/person_01_crop.jpg"
+  },
+  {
+    "person_id": "person_02",
+    "face_bbox_x": 125,
+    "face_bbox_y": 201,
+    "face_bbox_w": 49,
+    "face_bbox_h": 49,
+    "upperbody_found": false,
+    "upper_bbox_x": null,
+    "upper_bbox_y": null,
+    "upper_bbox_w": null,
+    "upper_bbox_h": null,
+    "crop_path": "crops/person_02_crop.jpg"
+  },
+  {
+    "person_id": "person_03",
+    "face_bbox_x": 244,
+    "face_bbox_y": 177,
+    "face_bbox_w": 48,
+    "face_bbox_h": 48,
+    "upperbody_found": false,
+    "upper_bbox_x": null,
+    "upper_bbox_y": null,
+    "upper_bbox_w": null,
+    "upper_bbox_h": null,
+    "crop_path": "crops/person_03_crop.jpg"
+  },
+  {
+    "person_id": "person_04",
+    "face_bbox_x": 369,
+    "face_bbox_y": 195,
+    "face_bbox_w": 47,
+    "face_bbox_h": 47,
+    "upperbody_found": false,
+    "upper_bbox_x": null,
+    "upper_bbox_y": null,
+    "upper_bbox_w": null,
+    "upper_bbox_h": null,
+    "crop_path": "crops/person_04_crop.jpg"
+  }
+]

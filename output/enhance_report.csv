@@ -1,0 +1,5 @@
+blur_after,blur_before,crop_file,crop_path,enhanced_file,enhanced_path,sharpen_level,upscale_2x
+7.92789218733046,12.279193352708333,person_01_crop.jpg,crops/person_01_crop.jpg,person_01_enhanced.jpg,enhanced/person_01_enhanced.jpg,high,True
+4.371438541662326,4.838089581766492,person_02_crop.jpg,crops/person_02_crop.jpg,person_02_enhanced.jpg,enhanced/person_02_enhanced.jpg,high,True
+10.650854166558167,10.39843749826389,person_03_crop.jpg,crops/person_03_crop.jpg,person_03_enhanced.jpg,enhanced/person_03_enhanced.jpg,high,True
+3.668147395735405,4.391131244058158,person_04_crop.jpg,crops/person_04_crop.jpg,person_04_enhanced.jpg,enhanced/person_04_enhanced.jpg,high,True
