@@ -1,7 +1,7 @@
-# group-photo-portrait-crops (Classical CV, 2022/23-realistic)
+# group-photo-portrait-crops (Classical CV)
 
 This repo creates "contact-style" portrait crops (face + upper body) from a single group photo,
-using classical computer vision (no modern foundation vision models).
+using classical computer vision.
 
 It provides 2 cropping approaches + 1 enhancement step:
 
